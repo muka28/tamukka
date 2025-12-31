@@ -1,13 +1,3 @@
-Got it — you want this **GitHub profile README** refactored to **accurately match your ML Engineer resume**, not firmware/embedded. Below is a **clean, senior-level ML Engineer–focused version** that:
-
-* Aligns tightly with your **actual experience** (fraud, KYC, MLOps, agents)
-* Avoids buzzword fluff you *can’t defend in interviews*
-* Still keeps the **technical + aesthetic GitHub README style**
-* Positions you well for **ML Engineer / Applied AI / AI Systems roles**
-
-You can copy-paste this directly into your GitHub `README.md` and adjust links if needed.
-
----
 
 # 🤖 Machine Learning Engineer | Production AI & Intelligent Systems
 
